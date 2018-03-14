@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c:\dev\visual-studio-c++\bigramsentencegenerator\bigramsentencegenerator\main.cpp(34): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\dev\visual-studio-c++\bigramsentencegenerator\bigramsentencegenerator\main.cpp(202): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+c:\dev\visual-studio-c++\bigramsentencegenerator\bigramsentencegenerator\main.cpp(234): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\dev\visual-studio-c++\bigramsentencegenerator\bigramsentencegenerator\main.cpp(223): warning C4101: 'numSentences': unreferenced local variable
+c:\dev\visual-studio-c++\bigramsentencegenerator\bigramsentencegenerator\main.cpp(177): warning C4101: 'cnt': unreferenced local variable
+c:\dev\visual-studio-c++\bigramsentencegenerator\bigramsentencegenerator\main.cpp(52): warning C4715: 'inputToOutput': not all control paths return a value
+  BigramSentenceGenerator.vcxproj -> C:\dev\visual-studio-c++\BigramSentenceGenerator\x64\Debug\BigramSentenceGenerator.exe
